@@ -1,0 +1,25 @@
+{
+  "name": "W3C Crowdfund and Token",
+  "version": "0.0.1",
+  "description": "Ethereum Token Contracts for W3C",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:etherparty/W3C-Token.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "authors": [
+    "Vanbex Labs"
+  ],
+  "dependencies": {
+    "bignumber.js": "^4.0.2"
+  }
+}
